@@ -1,0 +1,5 @@
+F:\vs2010\程序\VC++\TestProject1\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+F:\vs2010\程序\VC++\TestProject1\TestProject1\bin\Debug\TestProject1.dll
+F:\vs2010\程序\VC++\TestProject1\TestProject1\bin\Debug\TestProject1.pdb
+F:\vs2010\程序\VC++\TestProject1\TestProject1\obj\Debug\TestProject1.dll
+F:\vs2010\程序\VC++\TestProject1\TestProject1\obj\Debug\TestProject1.pdb

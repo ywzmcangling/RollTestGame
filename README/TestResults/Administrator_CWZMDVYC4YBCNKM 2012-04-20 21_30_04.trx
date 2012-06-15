@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="29acc7f2-855a-44cf-b5f9-30d009e2b4cd" name="Administrator@CWZMDVYC4YBCNKM 2012-04-20 21:30:04" runUser="CWZMDVYC4YBCNKM\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="98cbbc40-6270-48b5-8bf9-038477e53bc9">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_CWZMDVYC4YBCNKM 2012-04-20 21_30_04" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-04-20T21:30:04.5283203+08:00" queuing="2012-04-20T21:30:04.5419921+08:00" start="2012-04-20T21:30:04.6015625+08:00" finish="2012-04-20T21:30:04.9257812+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="testOnesSpare" storage="f:\vs2010\程序\vc++\testproject1\testproject1\bin\debug\testproject1.dll" id="c16d1df8-f4f7-9522-133d-f41bd5ee0ffa">
+      <Execution id="a0908d44-c7d7-40a8-a99b-734b294d1484" />
+      <TestMethod codeBase="F:/vs2010/程序/VC++/TestProject1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.BowlingGameTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="testOnesSpare" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c16d1df8-f4f7-9522-133d-f41bd5ee0ffa" executionId="a0908d44-c7d7-40a8-a99b-734b294d1484" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a0908d44-c7d7-40a8-a99b-734b294d1484" testId="c16d1df8-f4f7-9522-133d-f41bd5ee0ffa" testName="testOnesSpare" computerName="CWZMDVYC4YBCNKM" duration="00:00:00.0163511" startTime="2012-04-20T21:30:04.6113281+08:00" endTime="2012-04-20T21:30:04.8466796+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a0908d44-c7d7-40a8-a99b-734b294d1484">
+    </UnitTestResult>
+  </Results>
+</TestRun>
